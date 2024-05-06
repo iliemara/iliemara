@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @iliemara
-- 🌱 I’m currently learning Python and C by doing the HarvardX CS50 course.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
